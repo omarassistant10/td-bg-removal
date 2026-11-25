@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart
+rembg[cpu]==2.0.56
+onnxruntime
+pillow
